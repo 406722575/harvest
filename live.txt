@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026-11-06 11:44:49,harvest
+2026-11-06 11:45:23,harvest
 
 📺央视频道,#genre#
 CCTV-8,http://124.165.251.82:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
