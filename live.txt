@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026-11-06 18:03:33,harvest
+2026-11-06 18:22:22,harvest
 
 📺央视频道,#genre#
 CCTV-1,http://222.223.41.27:8888/hls/1/index.m3u8
@@ -74,7 +74,6 @@ CCTV-4美洲,http://8.138.7.223/tv/migu8.php?id=45de6fabfc0d9dfd41de6ad5022d8fce
 女性时尚,http://119.129.172.179:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 中学生,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20210415/cctvzhongxuesheng/50/index.m3u8?msisdn=2026110610025564953382a862472b8bc14617487a5022&mdspid=&spid=699004&netType=0&sid=5910019355&pid=2028597139&timestamp=20261106100255&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=708869532&ParentNodeID=-99&assertID=5910019355&client_ip=171.8.79.254&SecurityKey=20261106100255&promotionId=&mvid=5900002149&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=9fa7e00f6eb0574d1cfa0d959c265c7d
 老故事,http://8.138.7.223/tv/cwjd.php
-老故事,http://101.35.240.114:88/live.php?id=重温经典
 发现之旅,http://hlsztemgsplive.miguvideo.com:8080/wd_r3/cnr/faxianzhilv/1000/index.m3u8?msisdn=2026110610025533768e0bc9a24a699443e7baa7a69fe7&mdspid=&spid=699004&netType=0&sid=5500212893&pid=2028597139&timestamp=20261106100255&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878970&ParentNodeID=-99&assertID=5500212893&client_ip=171.8.79.254&SecurityKey=20261106100255&promotionId=&mvid=5100001701&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=93665570e3e3a94c4e6a0d2a270a3153
 CGTN英语,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 CGTN英语,https://0472.org/hls/cgtn.m3u8
@@ -220,7 +219,6 @@ CETV-1,https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 
 🏙️省级地面,#genre#
-广东珠江,http://r.jdshipin.com/sE5vO
 广东民生,http://183.11.239.36:808/hls/18/index.m3u8
 广东影视,http://tv.8610000.cn:555/gdtv/gdtv.php?id=53
 广东影视,http://xhyx.gz.cn:1698/hls/65/index.m3u8
@@ -254,11 +252,9 @@ CETV-1,https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 浙江教科影视,http://ali-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
 浙江教科影视,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 江苏体育休闲,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/jstv/jstiyu/600/index.m3u8?msisdn=202611061003006361424b484d435292f8a739478f2f0c&mdspid=&spid=699067&netType=0&sid=5500260554&pid=2028597139&timestamp=20261106100300&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626064707&ParentNodeID=-99&assertID=5500260554&client_ip=171.8.79.254&SecurityKey=20261106100300&promotionId=&mvid=5100186459&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=286362ea1b9822325932b5ade18250e2
-江苏新闻,http://mtayeh.ottb.xyz/live/774710333494/659822672281/58646.ts
 江苏公共新闻,https://jiangning-tv-playing-t.cm.jstv.com/jiangning-tv/jnxwzh.m3u8
 南京新闻综合,http://nklive.nbs.cn/hls/d511bc9d-a694-4453-b3a2-4fc842cc97a1/index.m3u8
 苏州新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
-第一财经,http://8.138.7.223/tv/shtv.php?id=dycj
 山东教育,https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
 山东生活,http://ls.qingting.fm/live/60260.m3u8
 山东新闻,http://ls.qingting.fm/live/60180.m3u8
@@ -286,14 +282,7 @@ CETV-1,https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 TVB Plus,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
 TVB Plus,http://r.jdshipin.com/ndGgS
 TVB Plus,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=j2_twn
-TVB J1,http://mtayeh.ottb.xyz/live/774710333494/659822672281/58588.ts
-HOY78,https://cdn.123.rr.kg/163189/hoy78
-HOY78,https://fast.hidns.vip/163189/hoy78
-HOY77,https://cdn.123.rr.kg/163189/hoy
-HOY77,https://fast.hidns.vip/163189/hoy
 港台电视 31,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=rhk31_twn
-港台电视 31,https://cdn.123.rr.kg/163189/rthk31
-港台电视 31,https://fast.hidns.vip/163189/rthk31
 港台电视 32,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=rhk32_twn
 无线新闻台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=21
 东森财经新闻,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
@@ -308,21 +297,11 @@ TVBS新闻,http://tv.cloudcdn.me:80/live.ts?channelId=132170&uid=10223&deviceMac
 民视新闻台,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 年代新闻,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=niandainews
 龙华经典,http://45.192.97.170:8880/play/647.m3u8
-龙华经典,http://8.fast.hidns.vip/163189/lhjd
-龙华经典,https://8.fast.hidns.vip/163189/lhjd
 龙华偶像,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=lunghuaidol_twn
 龙华偶像,http://45.192.97.170:8880/play/648.m3u8
-龙华偶像,http://8.fast.hidns.vip/163189/lhox
 龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
-龙华日韩,http://8.fast.hidns.vip/163189/lhrh
-龙华日韩,https://8.fast.hidns.vip/163189/lhrh
 龙华洋片,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=lunghuawestern_twn
 龙华洋片,https://8.fast.hidns.vip/163189/lhyp
-龙华洋片,https://8.fast.hidns.vip/163189/lhdy
-龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
-龙华卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
-龙华卡通,http://8.fast.hidns.vip/163189/lhkt
-龙华卡通,https://8.fast.hidns.vip/163189/lhkt
 娱乐新闻台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Tvbentertainment
 
 🌏境外频道,#genre#
