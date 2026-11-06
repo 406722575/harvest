@@ -1,21 +1,18 @@
 更新时间,#genre#
-2026-11-07 00:53:33,harvest
+2026-11-07 01:06:59,harvest
 
 📺央视频道,#genre#
 CCTV-7,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv7_1_td.m3u8
-CCTV-9,https://xykt-fix.github.io/Y77.m3u8
 CCTV-11,http://1.24.39.180:9003/hls/11/index.m3u8
 CCTV-13,http://45.192.97.170:8880/play/205.m3u8
 CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
-CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 CCTV-15,http://58.56.162.102:4466/newlive/live/hls/16/live.m3u8
 CCTV-16,http://112.27.5.218:9901/tsfile/live/faacts/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-17,http://1.24.39.180:9003/hls/61/index.m3u8
 CCTV-4,http://219.147.245.238:25480/newlive/live/hls/4/live.m3u8
 风云剧场,http://dassby.qqff.top:99/live/风云剧场/index.m3u8
 第一剧场,http://dassby.qqff.top:99/live/第一剧场/index.m3u8
-老故事,http://8.138.7.223/tv/cwjd.php
 CGTN英语,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 CGTN英语,https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 CGTN英语,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
@@ -35,7 +32,6 @@ CETV-1,https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 东方卫视,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 东方卫视,http://112.123.243.37:50085/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
-广东卫视,http://tv.8610000.cn:555/gdtv/gdtv.php?id=43
 河北卫视,https://event.pull.hebtv.com/live/live101.m3u8
 河南卫视,http://lxajh.top/tv/hn.php?id=hnws
 河南卫视,https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=985ebb910dd1e9ad9603ffd7670bd155&wsTime=1791183481
@@ -58,18 +54,14 @@ CETV-1,https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 黑龙江卫视,http://45.192.97.170:8880/play/232.m3u8
 黑龙江卫视,https://idclive.hljtv.com:4430/live/hljws_own.m3u8
 黑龙江卫视,https://epg.pw/stream/c6c1262d0b35e59eac22bf513395f00f8b60cc5eab41f598412cdf8269312f32.m3u8
-海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
 大湾区卫视,http://222.128.55.152:9080/live/dwq.m3u8
 广西卫视,http://45.192.97.170:8880/play/231.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
-三沙卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=ssws
 福建卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
 苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 
 🏙️省级地面,#genre#
-广东影视,http://tv.8610000.cn:555/gdtv/gdtv.php?id=53
-广东少儿,http://tv.8610000.cn:555/gdtv/gdtv.php?id=54
 广州综合,https://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487
 广州综合,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
@@ -91,9 +83,6 @@ CETV-1,https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 🎬港澳台,#genre#
 翡翠台,http://iptv.4666888.xyz/iptv2A.php?id=34
 翡翠台,http://r.jdshipin.com/62WM7
-明珠台,http://r.jdshipin.com/jUx8K
-TVB Plus,http://r.jdshipin.com/ndGgS
-TVB Plus,https://cdn3.123.rr.kg/stream/tvb/tvbp/
 台视新闻,http://222.128.55.152:9080/live/ts.m3u8
 台视新闻,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
@@ -101,9 +90,6 @@ TVBS新闻,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=45
 
 🍿影视轮播,#genre#
-天映频道,https://cdn3.indevs.in/stream/live/typd/
-天映频道,https://cdn10.123.rr.kg/163189/typd/
 美亚电影,http://iptv.4666888.xyz/iptv2A.php?id=30
 美亚电影,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-嘉佳卡通,http://tv.8610000.cn:555/gdtv/gdtv.php?id=66
 
