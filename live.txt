@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026-11-06 22:46:05,harvest
+2026-11-06 23:09:35,harvest
 
 📺央视频道,#genre#
 CCTV-1,http://120.237.39.10:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&down=1
@@ -61,7 +61,6 @@ CCTV-4K,http://vip1.xinketongxun.fun:8082/tsfile/live/1026_1.m3u8
 第一剧场,http://dassby.qqff.top:99/live/第一剧场/index.m3u8
 第一剧场,https://live.264788.xyz/channel/diyijuchang?streamid=e9b0fb1ca135a4aeae12944494883794&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 第一剧场,https://live.264788.xyz/channel/diyijuchang?streamid=d81e188b59ece96b7e8f1ce34aea3ef8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-老故事,http://8.138.7.223/tv/cwjd.php
 CGTN英语,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 CGTN英语,http://wcetv.com/videos/view/liv/1
 CGTN英语,https://m.italkbbtv.com/live/6a17e7aabcd127197503045d
@@ -158,9 +157,6 @@ CETV-1,https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 黑龙江卫视,http://36.136.38.87:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江卫视,https://idclive.hljtv.com:4430/live/hljws_own.m3u8
 黑龙江卫视,http://118.122.144.115:8888/newlive/live/hls/38/live.m3u8
-海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
-海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws&?key=txiptv
-海南卫视,http://45.192.97.170:8880/play/233.m3u8
 大湾区卫视,http://222.128.55.152:9080/live/dwq.m3u8
 大湾区卫视,http://36.136.38.87:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 广西卫视,http://153.0.171.163:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -169,7 +165,6 @@ CETV-1,https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 宁夏卫视,http://120.198.86.186:9901/tsfile/live/1088_1.m3u8?key=txiptv&playlive=1&authid=0
 宁夏卫视,http://fuxin.yunjifei.top:999/tsfile/live/0112_1.m3u8?key=txiptv
 宁夏卫视,http://222.71.55.147:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0
-三沙卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=ssws
 云南卫视,http://119.39.9.8:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
 云南卫视,http://112.123.243.37:50085/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
 云南卫视,http://124.90.45.52:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -227,7 +222,6 @@ CETV-1,https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 山东新闻,http://ls.qingting.fm/live/60180.m3u8
 湖南经视,https://p8.vzan.com/slowlive/415983998730568937/live.m3u8
 金鹰卡通,http://125.43.249.76:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽影视,https://www.ahtv.cn/folder9000/folder20193?channelIndex=3
 安徽导视,http://dspdhls.appcoo.com:8888/live/dspd/index.m3u8
 辽宁都市,http://dassby.qqff.top:99/live/辽宁都市/index.m3u8
 辽宁都市,https://ls.qingting.fm/live/1099/64k.m3u8
@@ -244,10 +238,6 @@ CETV-1,https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 明珠台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=23
 明珠台,http://iptv.4666888.xyz/iptv2A.php?id=29
 明珠台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=pearl_twn
-TVB Plus,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
-TVB Plus,http://r.jdshipin.com/ndGgS
-TVB Plus,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=j2_twn
-港台电视 32,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=rhk32_twn
 东森财经新闻,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 中天新闻,http://222.128.55.152:9080/live/fc.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
@@ -259,27 +249,15 @@ TVBS新闻,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 民视新闻台,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 民视新闻台,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-龙华经典,http://45.192.97.170:8880/play/647.m3u8
-龙华偶像,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=lunghuaidol_twn
-龙华偶像,http://45.192.97.170:8880/play/648.m3u8
-龙华偶像,https://8.fast.hidns.vip/163189/lhox
 龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=45
 
 🌏境外频道,#genre#
 Love Nature,https://pb-ehs1glsha1juy.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ehs1glsha1juy/f2141f37-1f48-475b-ba54-b9efb62346db/0.m3u8
 Love Nature,https://bamus-lovenature-lg.amagi.tv/360p-cc/index.m3u8
 Love Nature,https://bamus-lovenature-lg.amagi.tv/1080p-cc/index.m3u8
-AXN台湾,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=axn
-HBO,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=hbohd
 
 🍿影视轮播,#genre#
 CHC动作电影,http://120.238.84.45:9901/tsfile/live/1094_1.m3u8?key=txiptv&playlive=1&authid=0
-天映经典,https://10.fast.hidns.vip/163189/ccm/
-天映经典,https://cdn3.indevs.in/stream/live/ccm/
-天映经典,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Celestial2
-天映频道,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Celestial
-天映频道,https://cdn3.indevs.in/stream/live/typd/
-天映频道,https://cdn10.123.rr.kg/163189/typd/
 美亚电影,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 美亚电影,http://iptv.4666888.xyz/iptv2A.php?id=30
 
