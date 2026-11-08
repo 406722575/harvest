@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026-11-08 18:01:06,harvest
+2026-11-08 18:07:15,harvest
 
 📺央视频道,#genre#
 CCTV-7,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv7_1_td.m3u8
