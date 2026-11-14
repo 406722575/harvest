@@ -1,7 +1,8 @@
 更新时间,#genre#
-2026-11-15 02:06:37,harvest
+2026-11-15 07:57:34,harvest
 
 📺央视频道,#genre#
+CCTV-10,http://45.192.97.170:8880/play/202.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 CCTV-15,http://58.56.162.102:4466/newlive/live/hls/16/live.m3u8
 CCTV-16,http://112.27.5.218:9901/tsfile/live/faacts/1001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -21,6 +22,7 @@ CGTN财经,https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599
 湖南卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
 辽宁卫视,http://45.192.97.170:8880/play/241.m3u8
 深圳卫视,http://112.123.243.37:50085/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
+浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://45.192.97.170:8880/play/227.m3u8
 内蒙古卫视,http://45.192.97.170:8880/play/249.m3u8
 黑龙江卫视,https://epg.pw/stream/c6c1262d0b35e59eac22bf513395f00f8b60cc5eab41f598412cdf8269312f32.m3u8
