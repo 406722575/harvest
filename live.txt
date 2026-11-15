@@ -1,11 +1,12 @@
 更新时间,#genre#
-2026-11-15 12:01:31,harvest
+2026-11-15 12:10:12,harvest
 
 📺央视频道,#genre#
 CCTV-10,http://45.192.97.170:8880/play/202.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 CCTV-15,http://58.56.162.102:4466/newlive/live/hls/16/live.m3u8
 CCTV-16,http://112.27.5.218:9901/tsfile/live/faacts/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-4,http://207.56.13.146:81/cdnlive/cctv4.m3u8
 CCTV-4K,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1794669300-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-fc0e3be8683d445452b53613dde11ccf&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 老故事,http://8.138.7.223/tv/cwjd.php
 CGTN英语,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
@@ -30,6 +31,7 @@ CGTN财经,https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599
 
 🏙️省级地面,#genre#
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=439b0fd2cf766b363c93a59cbcbe1370&txTime=18d00acf488
+东莞新闻综合,http://www.yahao.host:4022/rtp/239.253.43.104:5146
 浙江新闻频道,http://ali-m-l.cztv.com/channels/lantian/channel07/720p.m3u8
 浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8
 浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/720p.m3u8
