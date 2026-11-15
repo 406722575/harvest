@@ -1,11 +1,7 @@
 更新时间,#genre#
-2026-11-15 14:12:34,harvest
-
-📡卫视频道,#genre#
-湖南卫视,http://www.yao87.com:4022/udp/239.76.246.101:1234
+2026-11-16 07:57:29,harvest
 
 🏙️省级地面,#genre#
 东莞新闻综合,http://www.yahao.host:4022/rtp/239.253.43.104:5146
 揭阳综合,http://www.yahao.host:4022/rtp/239.77.0.229:5146
-潮州综合,http://www.yahao.host:4022/rtp/239.253.43.70:5146
 

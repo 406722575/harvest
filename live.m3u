@@ -1,9 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://tb.zbds.top/logo/湖南卫视.png" group-title="📡卫视频道",湖南卫视
-http://www.yao87.com:4022/udp/239.76.246.101:1234
 #EXTINF:-1 tvg-id="东莞新闻综合" tvg-name="东莞新闻综合" tvg-logo="https://live.fanmingming.com/tv/%E4%B8%9C%E8%8E%9E%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png" group-title="🏙️省级地面",东莞新闻综合
 http://www.yahao.host:4022/rtp/239.253.43.104:5146
 #EXTINF:-1 tvg-id="揭阳综合" tvg-name="揭阳综合" tvg-logo="https://live.fanmingming.com/tv/%E6%8F%AD%E9%98%B3%E7%BB%BC%E5%90%88.png" group-title="🏙️省级地面",揭阳综合
 http://www.yahao.host:4022/rtp/239.77.0.229:5146
-#EXTINF:-1 tvg-id="潮州综合" tvg-name="潮州综合" tvg-logo="https://live.fanmingming.com/tv/%E6%BD%AE%E5%B7%9E%E7%BB%BC%E5%90%88.png" group-title="🏙️省级地面",潮州综合
-http://www.yahao.host:4022/rtp/239.253.43.70:5146
