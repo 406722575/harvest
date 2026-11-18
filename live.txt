@@ -1,56 +1,17 @@
 更新时间,#genre#
-2026-11-18 20:06:02,harvest
+2026-11-18 20:11:08,harvest
 
 📡卫视频道,#genre#
 湖南卫视,http://www.yao87.com:4022/udp/239.76.246.101:1234
-安多卫视,http://play.kankanlive.com/live/1711956137852982.m3u8
-大湾区卫视,http://222.128.55.152:9080/live/dwq.m3u8
-凤凰卫视中文,http://183.237.95.108:9901/tsfile/live/1103_1.m3u8?key=txiptv&playlive=0&authid=0
-凤凰卫视中文,http://218.206.193.218:8888/hls/66/index.m3u8
-河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
-苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 
 📺央视频道,#genre#
 CCTV-6,http://8.138.7.223/tv/1905.php?id=LIVE3YPYZ30E7V1R0
 
 🏙️省级地面,#genre#
-广东影视,http://tv.8610000.cn:555/gdtv/gdtv.php?id=53
-广东少儿,http://tv.8610000.cn:555/gdtv/gdtv.php?id=54
-广州综合,https://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
-广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487
-广州综合,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
-浙江新闻频道,http://ali-m-l.cztv.com/channels/lantian/channel07/720p.m3u8
-浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
-浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8
-江苏公共新闻,https://jiangning-tv-playing-t.cm.jstv.com/jiangning-tv/jnxwzh.m3u8
-南京新闻综合,http://nklive.nbs.cn/hls/d511bc9d-a694-4453-b3a2-4fc842cc97a1/index.m3u8
-苏州新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
-第一财经,http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
-山东教育,https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
-湖南经视,https://p8.vzan.com/slowlive/415983998730568937/live.m3u8
-安徽影视,https://www.ahtv.cn/folder9000/folder20193?channelIndex=3
-安徽导视,http://dspdhls.appcoo.com:8888/live/dspd/index.m3u8
-福建新闻,http://satellitepull.cnr.cn/live/wx32fjxwgb/playlist.m3u8
-福建经济,http://satellitepull.cnr.cn/live/wx32fjdnjjgb/playlist.m3u8
-辽宁都市,http://dassby.qqff.top:99/live/辽宁都市/index.m3u8
 黑龙江都市,https://idclive.hljtv.com:4430/live/dushi_hd.m3u8
-云南都市,https://hwapi.yntv.net/62hdvf/rjwt14.m3u8
-甘肃经济,https://satellitepull.cnr.cn/live/wxgshhzs/playlist.m3u8
 
 🎬港澳台,#genre#
 翡翠台,http://iptv.4666888.xyz/iptv2A.php?id=34
 明珠台,http://iptv.4666888.xyz/iptv2A.php?id=29
-TVB Plus,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
-无线新闻台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=21
-台视新闻,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
-TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
-龙华偶像,http://45.192.97.170:8880/play/648.m3u8
 龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=45
-
-🍿影视轮播,#genre#
-CHC动作电影,http://120.238.84.45:9901/tsfile/live/1094_1.m3u8?key=txiptv&playlive=1&authid=0
-美亚电影,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-嘉佳卡通,http://tv.8610000.cn:555/gdtv/gdtv.php?id=66
 
