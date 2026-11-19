@@ -1,1 +1,1 @@
-{"generatedAt":1795090047478,"engine":"selfhost","channels":{"湖北影视":[{"i":1,"url":"http://111.172.113.96:5555/rtp/239.69.1.204:10866","res":"1920x1080","speed":0.41,"delay":58,"rank":null,"status":"ok"}]}}
+{"generatedAt":1795091610607,"engine":"selfhost","channels":{"CCTV16-4K":[{"i":1,"url":"http://119.100.208.46:11223/rtp/239.69.1.12:9712","res":"","speed":0.06,"delay":null,"rank":null,"status":"slow"}]}}

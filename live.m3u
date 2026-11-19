@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="湖北影视" tvg-name="湖北影视" tvg-logo="https://live.fanmingming.com/tv/%E6%B9%96%E5%8C%97%E5%BD%B1%E8%A7%86.png" group-title="🏙️省级地面",湖北影视
-http://111.172.113.96:5555/rtp/239.69.1.204:10866
+#EXTINF:-1 tvg-id="cctv16-4k" tvg-name="CCTV16-4K" tvg-logo="https://live.fanmingming.com/tv/CCTV164K.png" group-title="📺央视频道",CCTV16-4K
+http://119.100.208.46:11223/rtp/239.69.1.12:9712
