@@ -55,10 +55,6 @@ http://111.172.113.96:5555/rtp/239.69.1.83:10138
 http://119.100.208.46:11223/rtp/239.69.1.98:10224
 #EXTINF:-1 tvg-id="央视台球hd" tvg-name="央视台球HD" tvg-logo="https://live.fanmingming.com/tv/%E5%A4%AE%E8%A7%86%E5%8F%B0%E7%90%83HD.png" group-title="📺央视频道",央视台球HD
 http://111.172.113.96:5555/rtp/239.69.1.98:10224
-#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png" group-title="📡卫视频道",安徽卫视
-http://183.162.96.136:4000/rtp/238.1.79.27:4328
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="📡卫视频道",湖北卫视
-http://119.100.208.46:11223/rtp/239.69.1.12:9712
 #EXTINF:-1 tvg-id="四川卫视hd" tvg-name="四川卫视HD" tvg-logo="https://live.fanmingming.com/tv/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86HD.png" group-title="📡卫视频道",四川卫视HD
 http://119.100.208.46:11223/rtp/239.69.1.169:10650
 #EXTINF:-1 tvg-id="云南卫视hd" tvg-name="云南卫视HD" tvg-logo="https://live.fanmingming.com/tv/%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86HD.png" group-title="📡卫视频道",云南卫视HD
