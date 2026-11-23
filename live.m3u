@@ -18,6 +18,8 @@ http://182.143.101.106:40000/rtp/239.94.0.12:5140
 #EXTINF:-1 tvg-id="cctv14" tvg-name="CCTV-14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="📺央视频道",CCTV-14
 http://182.143.101.106:40000/rtp/239.94.0.14:5140
 #EXTINF:-1 tvg-id="cctv5+" tvg-name="CCTV-5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5%2B.png" group-title="📺央视频道",CCTV-5+
+http://125.92.103.51:6666/rtp/239.77.0.87:5146
+#EXTINF:-1 tvg-id="cctv5+" tvg-name="CCTV-5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5%2B.png" group-title="📺央视频道",CCTV-5+
 http://182.143.101.106:40000/rtp/239.94.0.23:5140
 #EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://live.fanmingming.com/tv/%E4%B8%AD%E5%9B%BD%E5%A4%A9%E6%B0%94.png" group-title="📺央视频道",中国天气
 http://182.143.101.106:40000/rtp/239.94.1.167:5140
@@ -50,9 +52,9 @@ http://119.100.208.46:11223/rtp/239.69.1.91:10186
 #EXTINF:-1 tvg-id="电视指南hd" tvg-name="电视指南HD" tvg-logo="https://live.fanmingming.com/tv/%E7%94%B5%E8%A7%86%E6%8C%87%E5%8D%97HD.png" group-title="📺央视频道",电视指南HD
 http://119.100.208.46:11223/rtp/239.69.1.87:10162
 #EXTINF:-1 tvg-id="怀旧剧场hd" tvg-name="怀旧剧场HD" tvg-logo="https://live.fanmingming.com/tv/%E6%80%80%E6%97%A7%E5%89%A7%E5%9C%BAHD.png" group-title="📺央视频道",怀旧剧场HD
-http://119.100.208.46:11223/rtp/239.69.1.89:10174
-#EXTINF:-1 tvg-id="怀旧剧场hd" tvg-name="怀旧剧场HD" tvg-logo="https://live.fanmingming.com/tv/%E6%80%80%E6%97%A7%E5%89%A7%E5%9C%BAHD.png" group-title="📺央视频道",怀旧剧场HD
 http://119.100.208.46:11223/rtp/239.69.1.86:10156
+#EXTINF:-1 tvg-id="怀旧剧场hd" tvg-name="怀旧剧场HD" tvg-logo="https://live.fanmingming.com/tv/%E6%80%80%E6%97%A7%E5%89%A7%E5%9C%BAHD.png" group-title="📺央视频道",怀旧剧场HD
+http://119.100.208.46:11223/rtp/239.69.1.89:10174
 #EXTINF:-1 tvg-id="兵器科技hd" tvg-name="兵器科技HD" tvg-logo="https://live.fanmingming.com/tv/%E5%85%B5%E5%99%A8%E7%A7%91%E6%8A%80HD.png" group-title="📺央视频道",兵器科技HD
 http://119.100.208.46:11223/rtp/239.69.1.79:10114
 #EXTINF:-1 tvg-id="高尔夫网球hd" tvg-name="高尔夫网球HD" tvg-logo="https://live.fanmingming.com/tv/%E9%AB%98%E5%B0%94%E5%A4%AB%E7%BD%91%E7%90%83HD.png" group-title="📺央视频道",高尔夫网球HD
